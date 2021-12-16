@@ -1,5 +1,5 @@
-# programieren
-I just wana try some programming
+# BMI Berechner
+
+Mein Programm ist ein einfaches Programm
 
 
-I am a really noob in Programming

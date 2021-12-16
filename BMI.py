@@ -1,4 +1,4 @@
-grösse=(input("Deine Grösse ist(m):"))
+grösse=(input("Deine Grösse ist(m):")) #Gib  deine Grösse ien
 gewicht=(input("Dein Gewicht ist:(kg gerundet)"))
 
 
